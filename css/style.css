@@ -36,7 +36,14 @@ p {
 
 }
 
+#Kanye {
+ background-image: url('http://www.eurweb.com/wp-content/uploads/2012/04/kanye-west-19.jpg');
+}
 
+
+#Kanye:hover {
+ background-image: url('https://lolthreads.files.wordpress.com/2012/04/kanye-moving-gif-lol.gif?w=540'), url('https://lolthreads.files.wordpress.com/2012/04/kanye-moving-gif-lol.gif?w=540');
+}
 
 
 
